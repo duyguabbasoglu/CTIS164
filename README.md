@@ -4,7 +4,7 @@ This repository contains interactive OpenGL projects
 developed for the Technical Mathematics with Coding course.
 
 ## **1. The Crab Nearby The Ocean**
-Simulates a seaside environment with a moving crab Rıfkı and 
+Simulates a seaside environment with the moving crab, Rıfkı and 
 interactive day-night transitions.
 
 ### Features
